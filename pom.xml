@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.iwa</groupId>
-    <artifactId>user-service</artifactId>
+    <artifactId>reservation-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>user-service</name>
-    <description>User service for the iwa project backend</description>
+    <name>reservation-service</name>
+    <description>Reservation service for the iwa project backend</description>
     <url/>
     <licenses>
         <license/>
